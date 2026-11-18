@@ -165,6 +165,7 @@ print(formatRwf(0));        // Expected: 0 RWF
 print(formatRwf(999));      // Expected: 999 RWF
 print(formatRwf(1000));     // Expected: 1,000 RWF
 print(formatRwf(-5000));    // Expected: -5,000 RWF
+print(formatRwf(1234567));  // Expected: 1,234,567 RWF
 print(isValidPin('12345')); // Expected: false
 print(isValidPin('48219')); // Expected: true
 }
