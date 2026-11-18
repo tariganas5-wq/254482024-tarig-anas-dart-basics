@@ -116,6 +116,7 @@ print('Tarig Anas has ${countVowels('Tarig Anas')} vowels');
 // B3
 print(initials('Tarig Anas'));
 print(initials(' ana uwase '));
+print(initials('  Tarig   Anas  '));
 print(initials(' '));
 
 // C5
